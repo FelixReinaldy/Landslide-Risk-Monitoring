@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6QLuMpdz10c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felix\\source\\repos\\LandslideFusion\\LandslideFusion\\LandslideFusion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felix\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
